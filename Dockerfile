@@ -1,12 +1,15 @@
-# Tags: latest, 1.4.2-debian-10-r163, 1.4.2, 1-debian-10, 1
+# Tags: latest, 1.4.2-debian-10-r164, 1.4.2, 1-debian-10, 1
 FROM bitnami/pushgateway:latest
-FROM bitnami/pushgateway:1.4.2-debian-10-r163
+FROM bitnami/pushgateway:1.4.2-debian-10-r164
 FROM bitnami/pushgateway:1.4.2
 FROM bitnami/pushgateway:1-debian-10
 FROM bitnami/pushgateway:1
 
 # Tags: _
 FROM bitnami/pushgateway:_
+
+# Tags: 1.4.2-debian-10-r163
+FROM bitnami/pushgateway:1.4.2-debian-10-r163
 
 # Tags: 1.4.2-debian-10-r162
 FROM bitnami/pushgateway:1.4.2-debian-10-r162
