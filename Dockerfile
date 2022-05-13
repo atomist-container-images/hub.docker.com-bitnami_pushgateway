@@ -1,12 +1,42 @@
-# Tags: latest, 1.4.2-debian-10-r196, 1.4.2, 1-debian-10, 1
+# Tags: latest, 1.4.2-debian-10-r206, 1.4.2, 1-debian-10, 1
 FROM bitnami/pushgateway:latest
-FROM bitnami/pushgateway:1.4.2-debian-10-r196
+FROM bitnami/pushgateway:1.4.2-debian-10-r206
 FROM bitnami/pushgateway:1.4.2
 FROM bitnami/pushgateway:1-debian-10
 FROM bitnami/pushgateway:1
 
 # Tags: _
 FROM bitnami/pushgateway:_
+
+# Tags: 1.4.2-debian-10-r205
+FROM bitnami/pushgateway:1.4.2-debian-10-r205
+
+# Tags: 1.4.2-debian-10-r204
+FROM bitnami/pushgateway:1.4.2-debian-10-r204
+
+# Tags: 1.4.2-debian-10-r203
+FROM bitnami/pushgateway:1.4.2-debian-10-r203
+
+# Tags: 1.4.2-debian-10-r202
+FROM bitnami/pushgateway:1.4.2-debian-10-r202
+
+# Tags: 1.4.2-debian-10-r201
+FROM bitnami/pushgateway:1.4.2-debian-10-r201
+
+# Tags: 1.4.2-debian-10-r200
+FROM bitnami/pushgateway:1.4.2-debian-10-r200
+
+# Tags: 1.4.2-debian-10-r199
+FROM bitnami/pushgateway:1.4.2-debian-10-r199
+
+# Tags: 1.4.2-debian-10-r198
+FROM bitnami/pushgateway:1.4.2-debian-10-r198
+
+# Tags: 1.4.2-debian-10-r197
+FROM bitnami/pushgateway:1.4.2-debian-10-r197
+
+# Tags: 1.4.2-debian-10-r196
+FROM bitnami/pushgateway:1.4.2-debian-10-r196
 
 # Tags: 1.4.2-debian-10-r195
 FROM bitnami/pushgateway:1.4.2-debian-10-r195
@@ -64,33 +94,3 @@ FROM bitnami/pushgateway:1.4.2-debian-10-r178
 
 # Tags: 1.4.2-debian-10-r177
 FROM bitnami/pushgateway:1.4.2-debian-10-r177
-
-# Tags: 1.4.2-debian-10-r176
-FROM bitnami/pushgateway:1.4.2-debian-10-r176
-
-# Tags: 1.4.2-debian-10-r175
-FROM bitnami/pushgateway:1.4.2-debian-10-r175
-
-# Tags: 1.4.2-debian-10-r174
-FROM bitnami/pushgateway:1.4.2-debian-10-r174
-
-# Tags: 1.4.2-debian-10-r173
-FROM bitnami/pushgateway:1.4.2-debian-10-r173
-
-# Tags: 1.4.2-debian-10-r172
-FROM bitnami/pushgateway:1.4.2-debian-10-r172
-
-# Tags: 1.4.2-debian-10-r171
-FROM bitnami/pushgateway:1.4.2-debian-10-r171
-
-# Tags: 1.4.2-debian-10-r170
-FROM bitnami/pushgateway:1.4.2-debian-10-r170
-
-# Tags: 1.4.2-debian-10-r169
-FROM bitnami/pushgateway:1.4.2-debian-10-r169
-
-# Tags: 1.4.2-debian-10-r168
-FROM bitnami/pushgateway:1.4.2-debian-10-r168
-
-# Tags: 1.4.2-debian-10-r167
-FROM bitnami/pushgateway:1.4.2-debian-10-r167
